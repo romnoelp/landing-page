@@ -160,3 +160,59 @@ a {
 .hero-name {
     font-weight: bold;
 }
+
+.fourth-section {
+    display: flex;
+    justify-content: center;
+
+    padding: 120px 20px;
+}
+
+.fourth-section .content {
+    background-color: #3882F6;
+    padding: 40px 90px;
+    width: 800px;
+    border-radius: 10px;
+}
+
+.fourth-section .top-text {
+    color: #F9FAF8;
+}
+
+.fourth-section .bottom-text {
+    color: #F9FAF8;
+    font-weight: lighter;
+}
+
+.fourth-section .right {
+    display: flex;
+}
+
+.fourth-section .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-section .sign-up {
+    border: #F9FAF8 2px solid;
+    background-color: #3882F6;
+    width:100px;
+    height:35px;
+    border-radius: 10px;
+}
+
+.fourth-section .text {
+    color: #F9FAF8;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+}
+
+.info {
+    color: #F9FAF8;
+}
